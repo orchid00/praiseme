@@ -19,5 +19,5 @@ returns a nice message with a praise name
 Now this function can be personilised!
 }
 \examples{
-praiseYou(name = "Paula", punctuation = "!") # will give you a nice message with the given name
+praiseYou(name = "Pau", punctuation = "!") # will give you a nice message with the given name
 }
