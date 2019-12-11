@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "orchid00@gmail.com",
            comment = c(ORCID = "0000-0002-8990-1985"))
-Description: Using this package to
+Description: Using this package to send nice messages.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
