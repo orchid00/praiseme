@@ -24,8 +24,8 @@ praise <- function(){
 #' @title Praising a person
 #'
 #' @description Now this function can be personilised!
-#' @param name This is the name of the person you want to praise
-#' @param punctuation This is the punctuation at the end of the praise
+#' @param name _character_ This is the name of the person you want to praise
+#' @param punctuation _character_ This is the punctuation at the end of the praise
 #'                   message.
 #'
 #' @return returns a nice message with a praise name

@@ -7,9 +7,9 @@
 praiseYou(name, punctuation)
 }
 \arguments{
-\item{name}{This is the name of the person you want to praise}
+\item{name}{_character_ This is the name of the person you want to praise}
 
-\item{punctuation}{This is the punctuation at the end of the praise
+\item{punctuation}{_character_ This is the punctuation at the end of the praise
 message.}
 }
 \value{
