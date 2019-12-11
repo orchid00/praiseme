@@ -33,7 +33,7 @@ praise <- function(){
 #'
 #' @examples
 #' praiseYou(name = "Pau", punctuation = "!") # will give you a nice message with the given name
-praiseYou <- function(name, punctuation){
-    glue:glue("You are THE best, {name} {punctuation}")
+praiseYou <- function(name, punctuation = "!"){
+  glue::glue("You're the best, {name}{punctuation}")
 }
 
