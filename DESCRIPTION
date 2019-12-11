@@ -1,0 +1,14 @@
+Package: praiseme
+Title: Deliver Praise to Someone
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Paula A.",
+           family = "Martinez",
+           role = c("aut", "cre"),
+           email = "orchid00@gmail.com",
+           comment = c(ORCID = "0000-0002-8990-1985"))
+Description: Using this package to
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
