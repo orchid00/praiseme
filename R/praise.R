@@ -32,7 +32,7 @@ praise <- function(){
 #' @export
 #'
 #' @examples
-#' praiseYou(name = "Paula", punctuation = "!") # will give you a nice message with the given name
+#' praiseYou(name = "Pau", punctuation = "!") # will give you a nice message with the given name
 praiseYou <- function(name, punctuation){
     paste0("You are THE best ", name, punctuation)
 }
