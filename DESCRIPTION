@@ -14,3 +14,5 @@ LazyData: true
 RoxygenNote: 6.1.1
 Imports:
     glue
+URL: https://github.com/orchid00/praiseme
+BugReports: https://github.com/orchid00/praiseme/issues

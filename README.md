@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![R build
+status](https://github.com/orchid00/praiseme/workflows/R-CMD-check/badge.svg)](https://github.com/orchid00/praiseme)
 <!-- badges: end -->
 
 The goal of praiseme is to give you a few nice messages\!
