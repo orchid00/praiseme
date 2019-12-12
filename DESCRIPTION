@@ -16,3 +16,5 @@ Imports:
     glue
 URL: https://github.com/orchid00/praiseme
 BugReports: https://github.com/orchid00/praiseme/issues
+Suggests: 
+    testthat (>= 2.1.0)
