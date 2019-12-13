@@ -25,6 +25,8 @@ devtools::install_github("orchid00/praiseme")
 
 This is a basic example which shows you how to solve a common problem:
 
+### Test
+
 ``` r
 library(praiseme)
 ## basic example code
